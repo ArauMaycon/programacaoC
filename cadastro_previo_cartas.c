@@ -7,7 +7,7 @@ int main() {
     int população;
     float area;
     float pib;
-    int numeroPonotsTuristicos;
+    int numeroPontosTuristicos;
 
     printf("Digite a letra do estado\n");
     scanf("%c", &letraAaH);
@@ -34,8 +34,8 @@ int main() {
     printf("O PIB e de: %f\n", pib);
 
     printf("Digite o numero de pontos turisticos da cidade\n");
-    scanf("%d", &numeroPonotsTuristicos);
-    printf("O numero de pontos turisticos é: %d\n", numeroPonotsTuristicos);
+    scanf("%d", &numeroPontosTuristicos);
+    printf("O numero de pontos turisticos é: %d\n", numeroPontosTuristicos);
 
     return 0;
 }
