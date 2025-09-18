@@ -35,6 +35,7 @@ int main() {
 
     printf("Digite o numero de pontos turisticos da cidade\n");
     scanf("%d", &numeroPontosTuristicos);
+    getchar();
 
     printf("Digite a letra do estado\n");
     scanf("%c", &estado02);
